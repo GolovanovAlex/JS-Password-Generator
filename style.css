@@ -50,3 +50,6 @@ body {
   background-color: #1b1b1b;
   transition: 0.4s;
 }
+.container button:hover {
+  background-color: #1363df;
+}
